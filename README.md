@@ -1,15 +1,15 @@
-# user-guide-sistem-absensi-karyawan
+# User-Guide-Sistem-Absensi-Karyawan
 Sistem absensi karyawan berbasis web digunakan untuk membantu pencatatan kehadiran karyawan berbasis digital. Dokumen ini menyediakan panduan langkah 
 demi langkah agar pengguna dapat menggunakan sistem dengan mudah dan efisien.
 
-## target pengguna
+## Target Pengguna
 - Karyawan
 - Admin/HR
 
-## tujuan dokumentasi 
+## Tujuan Dokumentasi 
 Dokumentasi ini bertujuan untuk membantu pengguna memahami cara menggunakan fitur utama sistem absensi, sehingga pencatatan kehadiran dapat dilakukan dengan benar dan konsisten.
 
-## ruang lingkup panduan
+## Ruang Lingkup Panduan
 Panduan ini mencangkup :
 - Proses login ke dalam sistem
 - Akses ke halaman absensi
@@ -17,10 +17,10 @@ Panduan ini mencangkup :
 - Melihat riwayat absensi karyawan
 - Penanganan kendala umum saat menggunakan sistem
 
-## struktur dokumentasi
+## Struktur Dokumentasi
 - Introducion
-- Getting started
-- Login and acces
-- Main features
+- Getting Started
+- Login and Acces
+- Main Features
 - Troubleshooting
   
