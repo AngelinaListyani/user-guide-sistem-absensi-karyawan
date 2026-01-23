@@ -5,7 +5,7 @@ Sebelum mengakses sistem absensi karyawan berbasis web, pastikan anda telah meme
 - Memiliki akun pengguna yang aktif
 - Memiliki akses ke alamat website sistem absensi
 - Terhubung dengan jaringan internet yang stabil
-- Menggunakan browser yang mendukung aplikasi website
+- Menggunakan browser yang mendukung aplikasi web
   
 ## Perangkat yang direkomendasikan
 Untuk pengalaman penggunaan yang optimal, disarankan menggunakan :
