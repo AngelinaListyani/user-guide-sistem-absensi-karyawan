@@ -1,7 +1,6 @@
 # Troubleshooting
-
 Bagian ini berisi panduan untuk membantu pengguna mengatasi masalah umum yang mungkin terjadi saat menggunakan Sistem Absensi Karyawan berbasis web.
----
+
 ## Tidak Bisa Login
 Pengguna tidak dapat mengakses sistem meskipun sudah berada pada halaman login.
 
