@@ -14,11 +14,11 @@ Dokumentasi ini difokuskan untuk :
 
  ## Struktur Dokumentasi
  Berikut adalah daftar dokumen yang tersedia dalam repository ini :
-- [Introduction](introduction.md)
-- [Getting Started](getting-started.md)
-- [Login and Acces](login-and-access.md)
-- [Main Features (Karyawan)](main-features.md)
-- [Troubleshooting](troubleshooting.md)
+- [Introduction](01-introduction.md)
+- [Getting Started](02-getting-started.md)
+- [Login and Acces](03-login-and-access.md)
+- [Main Features (Karyawan)](04-main-features.md)
+- [Troubleshooting](05-troubleshooting.md)
 
 ## Cakupan Panduan
 Dokumentasi ini mencakup pembahasan berikut :
