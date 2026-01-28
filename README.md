@@ -17,7 +17,7 @@ Dokumentasi ini difokuskan untuk :
 - [Introduction](introduction.md)
 - [Getting Started](getting-started.md)
 - [Login and Acces](login-and-access.md)
-- [Main Features](Karyawan) (main-features.md)
+- [Main Features (Karyawan)](main-features.md)
 - [Troubleshooting](troubleshooting.md)
 
 ## Cakupan Panduan
