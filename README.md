@@ -1,4 +1,4 @@
-# User-Guide-Sistem-Absensi-Karyawan
+# User Guide-Sistem-Absensi-Karyawan
 Repository ini berisi dokumentasi panduan penggunaan Sistem Absensi Karyawan berbasis web yang ditujukan untuk membantu karyawan memahami cara menggunakan sistem absensi secara mandiri dan efisien. 
 
 ## Tujuan Dokumentasi 
