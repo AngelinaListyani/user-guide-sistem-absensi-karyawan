@@ -3,6 +3,7 @@ Bagian ini berisi panduan untuk membantu pengguna mengatasi masalah umum yang mu
 
 ## Tidak Bisa Login
 Pengguna tidak dapat mengakses sistem meskipun sudah berada pada halaman login.
+
 **Kemungkinan Penyebab:**  
 - Username atau password tidak sesuai  
 - Koneksi internet tidak stabil  
@@ -16,6 +17,7 @@ Pengguna tidak dapat mengakses sistem meskipun sudah berada pada halaman login.
 
 ## Lupa Password
 Pengguna tidak dapat mengakses akun karena lupa password yang terdaftar.
+
 **Kemungkinan Penyebab:**  
 - Password akun tidak diingat oleh pengguna  
 
@@ -27,6 +29,7 @@ Pengguna tidak dapat mengakses akun karena lupa password yang terdaftar.
 
 ## Tombol Check In dan Check Out Tidak Bisa Diklik
 Tombol Check In dan Check Out tidak dapat digunakan sehingga pengguna tidak dapat melakukan proses absensi.
+
 **Kemungkinan Penyebab:**  
 - Koneksi internet tidak stabil  
 - Sesi login telah berakhir  
@@ -39,6 +42,7 @@ Tombol Check In dan Check Out tidak dapat digunakan sehingga pengguna tidak dapa
 
 ## Data Absensi Tidak Muncul
 Sistem tidak menampilkan data absensi meskipun pengguna telah melakukan proses absensi.
+
 **Kemungkinan Penyebab:**  
 - Koneksi internet terputus  
 - Browser mengalami gangguan  
@@ -52,6 +56,7 @@ Sistem tidak menampilkan data absensi meskipun pengguna telah melakukan proses a
 
 ## Halaman Tidak Bisa Dimuat
 Sistem tidak menampilkan halaman dengan normal atau hanya menampilkan halaman kosong.
+
 **Kemungkinan Penyebab:**  
 - Koneksi internet tidak stabil  
 - Server sedang tidak tersedia  
