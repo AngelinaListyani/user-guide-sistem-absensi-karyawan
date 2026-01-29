@@ -25,7 +25,7 @@ Langkah penggunaan fitur check out :
 4. Sistem akan menyimpan waktu pulang dan menampilkan status **Berhasil**
 
 ## Riwayat Absensi
-Halaman Riwayat Absensi berisi rekapitulasi data kehadiran karyawan yang tercatat oleh system.
+Halaman Riwayat Absensi berisi rekapitulasi data kehadiran karyawan yang tercatat oleh sistem.
 Informasi yang dapat dilihat pada halaman ini meliputi :
 1. Daftar absensi berdasarkan tanggal
 2. Status kehadiran karyawan
