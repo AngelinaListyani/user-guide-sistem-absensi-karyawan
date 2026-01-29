@@ -17,8 +17,8 @@ Dokumentasi ini difokuskan untuk :
 - [Introduction](docs/01-introduction.md)
 - [Getting Started](docs/02-getting-started.md)
 - [Login and Acces](docs/03-login-and-access.md)
-- [Main Features (Employee)](04-main-features.md)
-- [Troubleshooting](05-troubleshooting.md)
+- [Main Features (Employee)](docs/04-main-features.md)
+- [Troubleshooting](docs/05-troubleshooting.md)
 
 ## Cakupan Panduan
 Dokumentasi ini mencakup pembahasan berikut :
