@@ -34,6 +34,9 @@ Dokumentasi ini ditulis menggunakan :
 - Platform **Github** sebagai media publikasi
 - Pendekatan user-centered documentation
 
+## Catatan
+Dokumentasi ini dibuat untuk keperluan pembelajaran dan portofolio technical writing. Alur sistem dan fitur yang dijelaskan disesuaikan dengan praktik umum sistem absensi berbasis web.
+
 ## Author
 **Angelina Listyani Kartika**
 Technical Writing Portofolio
