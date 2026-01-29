@@ -1,4 +1,5 @@
 # Introduction
+Dokumentasi ini merupakan panduan penggunaan sistem absensi karyawan berbasis web yang difokuskan pada karyawan sebagai end user.
 
 ## Tentang Sistem
 Sistem Absensi Karyawan berbasis web digunakan untuk membantu proses pencatatan kehadiran karyawan secara digital, sehingga proses absensi dapat dilakukan dengan lebih cepat, akurat, dan terpusat.
