@@ -1,4 +1,4 @@
-# Main Features (Karyawan)
+# Main Features (Employee)
 Bagian ini memberikan penjelasan mengenai fungsi fitur utama yang digunakan oleh karyawan pada Sistem Absensi berbasis web. Dokumentasi ini tidak mencakup fitur yang digunakan oleh admin.
 
 ## Dashboard
