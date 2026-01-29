@@ -17,7 +17,7 @@ Dokumentasi ini difokuskan untuk :
 - [Introduction](01-introduction.md)
 - [Getting Started](02-getting-started.md)
 - [Login and Acces](03-login-and-access.md)
-- [Main Features (Karyawan)](04-main-features.md)
+- [Main Features (Employee)](04-main-features.md)
 - [Troubleshooting](05-troubleshooting.md)
 
 ## Cakupan Panduan
@@ -35,7 +35,7 @@ Dokumentasi ini ditulis menggunakan :
 - Pendekatan user-centered documentation
 
 ## Catatan
-Dokumentasi ini dibuat untuk keperluan pembelajaran dan portofolio technical writing. Alur sistem dan fitur yang dijelaskan disesuaikan dengan praktik umum sistem absensi berbasis web.
+Dokumentasi ini dibuat sebagai **Studi kasus dan portofolio pembelajaran**. Sistem yang dideskripsikan merupakan simulasi sistem absensi berbasis web dan tidak terhubung dengan aplikasi produksi nyata.
 
 ## Author
 **Angelina Listyani Kartika**
