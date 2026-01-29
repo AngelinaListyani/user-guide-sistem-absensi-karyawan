@@ -1,4 +1,5 @@
 # Getting Started
+Bagian ini menjelaskan langkah awal yang perlu dilakukan karyawan untuk mengakses dan login ke dalam sistem absensi.
 
 ## Persyaratan Sistem
 Sebelum mengakses sistem absensi karyawan berbasis web, pastikan anda telah memenuhi persyaratan berikut :
