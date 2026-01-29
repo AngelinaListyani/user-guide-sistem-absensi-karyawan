@@ -12,7 +12,7 @@ Informasi yang ditampilkan pada halaman dashboard meliputi:
 ## Check In
 Fitur Check In digunakan oleh karyawan untuk melakukan absensi saat memulai jam kerja.
 Langkah penggunaan fitur check in :
-1.Pastikan Anda telah login ke sistem
+1. Pastikan Anda telah login ke sistem
 2. Klik tombol **Check In** pada halaman dashboard
 3. Sistem akan menyimpan waktu kehadiran dan menampilkan status **Berhasil**
 
