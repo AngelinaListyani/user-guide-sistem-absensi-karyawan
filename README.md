@@ -14,9 +14,9 @@ Dokumentasi ini difokuskan untuk :
 
  ## Struktur Dokumentasi
  Berikut adalah daftar dokumen yang tersedia dalam repository ini :
-- [Introduction](01-introduction.md)
-- [Getting Started](02-getting-started.md)
-- [Login and Acces](03-login-and-access.md)
+- [Introduction](docs/01-introduction.md)
+- [Getting Started](docs/02-getting-started.md)
+- [Login and Acces](docs/03-login-and-access.md)
 - [Main Features (Employee)](04-main-features.md)
 - [Troubleshooting](05-troubleshooting.md)
 
