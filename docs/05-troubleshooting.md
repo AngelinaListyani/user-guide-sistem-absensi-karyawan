@@ -3,7 +3,6 @@ Bagian ini berisi panduan untuk membantu pengguna mengatasi masalah umum yang mu
 
 ## Tidak Bisa Login
 Pengguna tidak dapat mengakses sistem meskipun sudah berada pada halaman login.
-
 **Kemungkinan Penyebab:**  
 - Username atau password tidak sesuai  
 - Koneksi internet tidak stabil  
@@ -14,10 +13,9 @@ Pengguna tidak dapat mengakses sistem meskipun sudah berada pada halaman login.
 2. Periksa koneksi internet dan pastikan dalam kondisi stabil  
 3. Gunakan fitur **Lupa Password** jika lupa kata sandi  
 4. Hubungi admin jika akun belum aktif  
----
+
 ## Lupa Password
 Pengguna tidak dapat mengakses akun karena lupa password yang terdaftar.
- 
 **Kemungkinan Penyebab:**  
 - Password akun tidak diingat oleh pengguna  
 
@@ -26,10 +24,9 @@ Pengguna tidak dapat mengakses akun karena lupa password yang terdaftar.
 2. Masukkan alamat email yang terdaftar pada sistem  
 3. Periksa email untuk menerima tautan atau kode verifikasi  
 4. Buat password baru sesuai instruksi yang diberikan  
----
+
 ## Tombol Check In dan Check Out Tidak Bisa Diklik
 Tombol Check In dan Check Out tidak dapat digunakan sehingga pengguna tidak dapat melakukan proses absensi.
-
 **Kemungkinan Penyebab:**  
 - Koneksi internet tidak stabil  
 - Sesi login telah berakhir  
@@ -39,10 +36,9 @@ Tombol Check In dan Check Out tidak dapat digunakan sehingga pengguna tidak dapa
 1. Periksa koneksi internet dan refresh halaman  
 2. Lakukan login ulang jika sesi telah berakhir  
 3. Pastikan semua data yang diperlukan telah diisi dengan benar  
----
+
 ## Data Absensi Tidak Muncul
 Sistem tidak menampilkan data absensi meskipun pengguna telah melakukan proses absensi.
-
 **Kemungkinan Penyebab:**  
 - Koneksi internet terputus  
 - Browser mengalami gangguan  
@@ -53,10 +49,9 @@ Sistem tidak menampilkan data absensi meskipun pengguna telah melakukan proses a
 2. Refresh halaman browser  
 3. Tutup browser dan buka kembali sistem  
 4. Hubungi admin jika masalah masih terjadi  
----
+
 ## Halaman Tidak Bisa Dimuat
 Sistem tidak menampilkan halaman dengan normal atau hanya menampilkan halaman kosong.
-
 **Kemungkinan Penyebab:**  
 - Koneksi internet tidak stabil  
 - Server sedang tidak tersedia  
