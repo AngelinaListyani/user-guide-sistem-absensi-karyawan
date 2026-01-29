@@ -20,4 +20,5 @@ Sistem ini dikembangkan untuk memberikan manfaat bagi perusahaan dan karyawan, a
 ## Peran Pengguna
 - **Karyawan**: Melakukan absensi harian dan melihat riwayat kehadiran  
 - **Admin / HR**: Mengelola data karyawan dan memantau laporan absensi
+
 Namun, dokumentasi ini difokuskan pada panduan penggunaan bagi **karyawan sebagai end user**.
